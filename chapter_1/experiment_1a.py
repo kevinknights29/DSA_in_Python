@@ -1,6 +1,7 @@
 # Experiment 1-A:
-# Write a python list comprehension that returns the individual characters of a string 
+# Write a python list comprehension that returns the individual characters of a string
 # that are not whitespace characters. Apply it to a string "4 and 20 blackbirds.\n"
+from __future__ import annotations
 
 string = "4 and 20 blackbirds.\n"
 
